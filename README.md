@@ -1,4 +1,4 @@
-# Resume-Builder
+l# Resume-Builder
 A modern **Resume Builder Web Application** that allows users to easily create, customize, and download professional resumes.  
 Built with **React.js, Redux Toolkit, Node.js, Express, and MongoDB**, this project focuses on a smooth user experience, responsive design, and export-ready resume templates.
 
