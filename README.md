@@ -52,4 +52,26 @@ Built with **React.js, Redux Toolkit, Node.js, Express, and MongoDB**, this proj
    git clone https://github.com/Fahimraj12/Resume-Builder.git
    cd resume-builder
 
+2. **Install dependencies**
+   ```bash
+   cd frontend
+   npm install
+   cd ../backend
+   npm install
 
+3. **Set up environment variables**
+- Create a .env file inside the backend directory:
+   ```bash
+   PORT=5000
+   MONGO_URI=your_mongodb_connection_string
+   JWT_SECRET=your_secret_key
+
+3. **Run the app**
+- Backend:
+   ```bash
+   cd backend
+   npm start
+- Frontend:
+  ```bash
+  cd frontend
+  npm start
