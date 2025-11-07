@@ -38,5 +38,18 @@ Built with **React.js, Redux Toolkit, Node.js, Express, and MongoDB**, this proj
 
 ---
 
+## ⚙️ Installation & Setup
+
+### Prerequisites
+- Node.js (v16+)
+- MongoDB (local or Atlas)
+- Git
+
+### Steps
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Fahimraj12/Resume-Builder.git
+   cd resume-builder
 
 
