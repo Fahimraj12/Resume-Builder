@@ -1,31 +1,25 @@
-l# Resume-Builder
-A modern **Resume Builder Web Application** that allows users to easily create, customize, and download professional resumes.  
-Built with **React.js, Redux Toolkit, Node.js, Express, and MongoDB**, this project focuses on a smooth user experience, responsive design, and export-ready resume templates.
+# Resume-Builder
+- This is a Resume Builder web application built using the **MERN (MongoDB, Express.js, React.js, Node.js) stack**.  
+- It allows users to create, edit, and manage resumes online with a clean and responsive interface.
+
+- Users can register, log in securely, and save their resume data for future editing. The backend stores data in MongoDB, and the frontend provides a smooth user experience on both desktop and mobile devices.
+
+- This repository contains the **frontend (`client/`) and backend (`server/`) code** for the project.
 
 ---
 
-## 🚀 Features
+## Features
+1. User authentication (register, login, logout)  
+2. Create, update, and delete resume sections  
+3. Responsive design for mobile and desktop  
+4. Secure data storage using MongoDB  
+5. Download resume as PDF  
+6. Multiple professional resume templates  
 
-- 📝 **Dynamic Resume Sections**
-  - Add, edit, or delete Education, Experience, Projects, and Skills dynamically.
-- 🧩 **Multiple Templates**
-  - Choose from pre-designed templates and customize colors, layout, and font styles.
-- 💾 **Save and Edit**
-  - Save your progress and continue editing anytime.
-- 📤 **Export Options**
-  - Download your resume as **PDF** or **Word (DOCX)** format.
-- 🔐 **User Authentication**
-  - Secure login and registration using JWT.
-- ⚡ **State Management**
-  - Efficient data handling via **Redux Toolkit**.
-- ☁️ **Cloud Database**
-  - All user data and templates stored securely in **MongoDB Atlas**.
-- 🧠 **Smart Resume Analyzer (Optional)**
-  - Analyze resumes using **NLP and ML** to improve professional score (future enhancement).
 
 ---
 
-## 🏗️ Tech Stack
+## Tech Stack
 
 | Category | Technologies Used |
 |-----------|-------------------|
