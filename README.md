@@ -60,7 +60,7 @@
    MONGO_URI=your_mongodb_connection_string
    JWT_SECRET=your_secret_key
 
-3. **Run the app**
+4. **Run the app**
 - Backend:
    ```bash
    cd backend
