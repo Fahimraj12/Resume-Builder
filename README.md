@@ -1,4 +1,4 @@
-# Resume-full-stack
+# Resume xl-stack
 
 ## Description
 This is a Resume Builder web application built using the **MERN (MongoDB, Express.js, React.js, Node.js) stack**.  
